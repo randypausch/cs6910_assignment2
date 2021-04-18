@@ -23,7 +23,7 @@ For training from scratch run:
 python3 train_new.py
 
 ```
-For changing the hyperparameters, perform:
+For changing the hyperparameters, pass these command line arguments: (Default values are set in the code itself)
 
 ```
 
@@ -51,7 +51,7 @@ For training by finetuning, run
 python3 finetune.py
 
 ```
-The following are the arguments that you can set:
+For changing the hyperparameters and other arguments, pass these command line arguments: (Default values are set in the code itself)
 
 ```
 usage: finetune.py [-h] [--training_path TRAINING_PATH]
