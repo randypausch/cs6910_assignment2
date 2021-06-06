@@ -59,5 +59,4 @@ usage: finetune.py [-h] [--training_path TRAINING_PATH]
                    [--epoch EPOCH] [--loss LOSS] [--optimizer OPTIMIZER]
                    [--model MODEL] [--pooling POOLING]
 
-```
-To view our report - https://wandb.ai/randypausch/dlpa2-manoj-shivangi/reports/Deep-Learning-Assignment-2--Vmlldzo2MTU5NjE
+
